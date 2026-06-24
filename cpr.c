@@ -1,9 +1,6 @@
 /*------------------------------------------------------------
 Fichier: cpr.c
 
-Nom: Yann Giffaux
-Numero d'etudiant: 0300237500
-
 Description: Ce programme contient le code pour la creation
 			 d'un processus enfant et y attacher un tuyau.
 		 L'enfant envoyera des messages par le tuyau

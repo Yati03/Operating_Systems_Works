@@ -1,9 +1,4 @@
-/*
- * Yann Giffaux
- * 300237500
- * CSI3531 Devoir 2
- * Question 1
- */
+
 
 import java.util.Scanner;
 

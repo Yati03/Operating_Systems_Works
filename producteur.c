@@ -1,5 +1,4 @@
-// Yann Giffaux 0300237500
-// CSI3531 Devoir 4 - Question 3 Producer
+
 
 // gcc producer.c -o ./producer
 // ./producer 5

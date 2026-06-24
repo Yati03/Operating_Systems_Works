@@ -1,9 +1,4 @@
-/*
- * Yann Giffaux
- * 300237500
- * Devoir 2
- * Question 2
- */
+
 
 import java.util.Scanner;
 
